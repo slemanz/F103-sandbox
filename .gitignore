@@ -1,0 +1,12 @@
+.vscode
+build
+
+*.bin
+*.elf
+*.map
+*.jdebug.user
+
+*.o
+
+*.md
+!README.md
